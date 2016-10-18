@@ -4,7 +4,8 @@
 
 var cool = "Monkey";
 var number = 22;
+var b = "bastard!";
 
-if(cool == "Monkey" && numer ==22){
-	console.log("Hey " + cool + " " + number);
+if(cool == "Monkey" && number ==22){
+	console.log("Hey " + cool + " " + number + " " + b);
 }
