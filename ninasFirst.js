@@ -8,3 +8,6 @@ var number = 22;
 if(cool == "Monkey" && numer ==22){
 	console.log("Hey " + cool + " " + number);
 }
+
+
+//teständring av evve 
